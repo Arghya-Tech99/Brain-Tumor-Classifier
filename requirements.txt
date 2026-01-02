@@ -1,0 +1,20 @@
+# Deep Learning and Computer Vision
+tensorflow>=2.10.0
+keras>=2.10.0
+opencv-python
+pillow
+numpy
+pandas
+
+# Performance Evaluation and Visualization
+matplotlib
+scikit-learn
+seaborn
+
+# Web Application
+Flask
+Flask-Cors
+
+# Deployment and Data Management
+dvc
+python-dotenv
