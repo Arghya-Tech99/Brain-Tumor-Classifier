@@ -1,0 +1,15 @@
+# --- Python & Virtual Environments ---
+.venv/
+__pycache__/
+
+# --- IDEs & Editors ---
+.idea/
+
+# --- Large Data & Binary Files ---
+# Exclude datasets and archived data
+data/
+archive.zip
+
+# --- Model Files ---
+# Pre-trained models are usually too large for GitHub
+models/
