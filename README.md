@@ -1,5 +1,9 @@
 
 # Brain Tumor Detection Using Deep Learning & Computer Vision
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-blue?style=for-the-badge)
+
 
 This project is an end-to-end Deep Learning application designed to detect and classify brain tumors from MRI scan images. By leveraging Transfer Learning and Computer Vision, the system can identify four distinct categories of scans with high accuracy through a user-friendly web interface.
 
